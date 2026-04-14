@@ -1,0 +1,7 @@
+Verificación básica:
+
+1. Descargar publickey.asc
+2. Abrir Kleopatra
+3. Importar clave
+4. Abrir archivo .sig o firmado
+5. Validar firma
